@@ -1,9 +1,14 @@
 # Trivia-Express-Quiz-application-
-A simple quiz application purely based on Java-swing &amp; Java-AWT running on just front-end and no database Integration also my 1st project.<br>
-you can start it by accessing "Main.java" located in  __Main__ folder.<br>
-Username = Password = admin.<br>
-<b>Note</b>: only possible error you might find in specifying location of the background,<br>
-file location could be different on your system which may not match with specified location in the code.<be>
-<hr>
-Also if you want to add some new question to your file I have provided template for the question just put in your question and change the Options and marking scheme for it 
-<br>Author - Priyanshu Malusare.
+A simple quiz application built using Java Swing & AWT, running entirely on the front end without any database integration. This was my first project, designed as a fun and interactive way to test knowledge through a lightweight UI.
+
+🚀 Getting Started
+Start the application by running "Main.java" located in the Main folder.
+
+Login Credentials: Username: admin Password: admin
+
+⚠️ Important Notes
+The background image location may vary based on your system, which could lead to loading issues. If encountered, update the file path accordingly in the code.
+
+<b>Adding New Questions</b>: If you want to add new questions, I have provided a template for easy modification. Just insert your question, update the options, and adjust the marking scheme to fit your needs.
+
+📌 Author: Priyanshu Malusare
